@@ -6,12 +6,16 @@ This repository documents a two-part digital forensic investigation focused on r
 
 Forensic Acquisition & Integrity
 - Mastering command-line tools (dcfldd) for forensic imaging and ensuring data integrity using cryptographic hashing (SHA-256).
+
 Disk Artifact Analysis
 - Conducting in-depth analysis of hard disk images using Autopsy to reconstruct user activity.
+
 Evidence Recovery
 - Performing deleted file recovery, keyword analysis, and registry analysis to extract sensitive information (e.g., credentials, communication patterns).
+
 Timeline Reconstruction
 - Analyzing metadata and system logs to establish a chronological overview of events.
+
 Threat Identification
 - Identifying indicators of compromise (IOCs) such as suspicious executables (Aollad.exe), program execution, and malicious website visits.
 
