@@ -1,4 +1,4 @@
-# Disk-Image-Acquisition-and-Artifact-Analysis
+# Disk Image Acquisition and Artifact Analysis
 
 This repository documents a two-part digital forensic investigation focused on rigorous evidence acquisition and in-depth disk image analysis. Part 1 details the proper acquisition of a digital device (USB flash drive) using command-line tools (dcfldd) and verification via cryptographic hashing. Part 2 involves the systematic analysis of a suspect disk image using Autopsy to uncover malicious activity, focusing on deleted file recovery, registry analysis, and keyword searching. This project highlights adherence to the Chain of Custody and the ability to identify critical forensic artifacts that inform incident response.
 
